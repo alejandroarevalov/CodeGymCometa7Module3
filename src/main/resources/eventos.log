@@ -1,0 +1,4 @@
+2024-11-22 21:58:45.295 [main] INFO  com.codegym.logging.CalculadoraLogging - Numeros a sumar: 2 y 65
+2024-11-22 21:58:45.295 [main] INFO  com.codegym.logging.CalculadoraLogging - Se van a restar los numeros 2 y 3
+2024-11-22 21:58:45.295 [main] INFO  com.codegym.logging.CalculadoraLogging - El resultado despues de ejecutar nuestro complejo metodo es: 12
+2024-11-22 21:58:45.295 [main] INFO  com.codegym.logging.CalculadoraLogging - Mensajes informativos importantes en com.codegym.logging.CalculadoraLogging 

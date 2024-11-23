@@ -1,0 +1,2 @@
+2024-11-22 21:58:45.296 [main] ERROR com.codegym.logging.CalculadoraLogging - Mensajes de error de la aplicación en com.codegym.logging.CalculadoraLogging 
+2024-11-22 21:58:45.296 [main] FATAL com.codegym.logging.CalculadoraLogging - Mensajes fatales en com.codegym.logging.CalculadoraLogging 
